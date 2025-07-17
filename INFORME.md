@@ -1,5 +1,5 @@
 
-#  Estrategia de Automatización – API ServeRest (Karate DSL)
+#  Estrategia de Automatización y Patrones
 
 ##  Objetivo
 
